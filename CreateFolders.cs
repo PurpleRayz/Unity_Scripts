@@ -33,6 +33,7 @@ public class CreateFolders : EditorWindow
             "Code/Shaders",
             "Docs",
             "Editor",
+            "Inputs",
             "Meshes",
             "Prefabs",
             "UI",
