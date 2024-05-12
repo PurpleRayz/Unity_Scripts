@@ -21,6 +21,7 @@ public class CreateFolders : EditorWindow
         {
             "Art",
             "Art/Materials",
+            "Art/Materials/Shaders",
             "Art/Models",
             "Art/Textures",
             "Animations",
@@ -30,7 +31,6 @@ public class CreateFolders : EditorWindow
             "Code",
             "Code/Scripts",
             "Code/ScriptableObjects",
-            "Code/Shaders",
             "Docs",
             "Editor",
             "Inputs",
