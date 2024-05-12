@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
 
+//Requests a project name for the project folder and creates it in the Assets folder then creates the subfolders
 public class CreateFolders : EditorWindow
 {
     private static string projectName = "PROJECT_NAME";
