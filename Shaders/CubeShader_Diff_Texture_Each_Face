@@ -1,4 +1,4 @@
-Shader "Custom/CubeSurfaceShader"
+Shader "Custom/CubeShader"
 {
  Properties {
         _MainTex ("Texture", 2D) = "white" {}
