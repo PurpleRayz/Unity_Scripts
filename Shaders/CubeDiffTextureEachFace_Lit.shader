@@ -1,4 +1,4 @@
-Shader "lit/CubeDiffTextureEachFace_0"
+Shader "lit/CubeDiffTextureEachFace"
 {
     Properties {
         [NoScaleOffset] _MainTex ("Texture", 2D) = "white" {}
